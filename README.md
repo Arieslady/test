@@ -1,2 +1,6 @@
 # test
-create a test repository cuz i wanna release codes of an accepted paper
+This is our Tensorflow implementation of xxx.
+
+##Introduction
+
+##Environment
